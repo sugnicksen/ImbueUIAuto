@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Imbue</name>
+   <name>Imbue_UI</name>
    <tag></tag>
-   <UUID>626aafa0-4b90-4c68-aabf-91e77088e39e</UUID>
+   <UUID>c6c2b1b1-443e-4c82-9b7f-fc8fb5d980fa</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
