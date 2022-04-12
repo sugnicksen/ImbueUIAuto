@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_End_MuiSvgIcon-root</name>
+   <tag></tag>
+   <elementGuidId>cb3813ef-f532-4da3-b879-7f50e554dd35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Imbue Training Test'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.sc-fzoVTD.kIrMep.detail-button > svg.MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>22f78b2d-5507-49e4-9a33-a9144d7e3bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root</value>
+      <webElementGuid>068197a5-bda0-4e3e-993e-35b9f1f79b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>43d75e5c-2498-4798-939f-0b76426c296e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>0761772a-8f43-4cd0-aac0-6260279854db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>88fd4390-7651-461b-93fc-9ac3e289f12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;sc-fznNTe fnbSrb&quot;]/div[@class=&quot;MuiGrid-root h-100 MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root dis-flex h-100 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzpisO jHQZJv MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[1]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[1]/div[@class=&quot;sc-fzoJus kcmCVz&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;right&quot;]/button[@class=&quot;MuiButtonBase-root sc-fzoVTD kIrMep detail-button&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>086c150e-6379-44e3-a71e-edd7da2484dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imbue Training Test'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f69fc26d-4c10-4998-8a23-e1144004124e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultant'])[2]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>718bb387-c91a-4cd7-8126-347776e54266</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
