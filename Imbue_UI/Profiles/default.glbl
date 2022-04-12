@@ -4,4 +4,19 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://crappdev.azureedge.net/myEvaluations'</initValue>
+      <name>G_SiteURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sugnick.sen@neudesic.com'</initValue>
+      <name>G_Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EmnPQEkQiSYNlUEd8rL3FxEovKaD6FOl'</initValue>
+      <name>G_EncryptedPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
