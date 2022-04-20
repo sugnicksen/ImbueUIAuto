@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ConsultantSugnick Sen</name>
+   <tag></tag>
+   <elementGuidId>6b06ed25-4eed-408f-9395-e406bd0151db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-AxjAm.bcMPWx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49e7c897-e1bd-4724-9b16-150e6dbe72ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-AxjAm bcMPWx</value>
+      <webElementGuid>5053ed6e-cc32-42de-9835-3641d6bc1190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ConsultantSugnick Sen</value>
+      <webElementGuid>ca205c20-ca07-45a7-89c4-ffa740b81cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;sc-fznNTe fnbSrb&quot;]/div[@class=&quot;MuiGrid-root h-100 MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root dis-flex h-100 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzpisO jHQZJv MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[1]/div[@class=&quot;ReactVirtualized__Grid ReactVirtualized__List&quot;]/div[@class=&quot;ReactVirtualized__Grid__innerScrollContainer&quot;]/div[1]/div[@class=&quot;sc-fzoJus kcmCVz&quot;]/div[@class=&quot;name-card&quot;]/div[@class=&quot;sc-AxjAm bcMPWx&quot;]</value>
+      <webElementGuid>6c7ba251-59e1-484e-a9e4-a0b4cd41b105</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>dc0b3225-d565-4734-a3bd-d340fb1f9a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Katalon Evaluation'])[1]/following::div[3]</value>
+      <webElementGuid>7e5e7553-7baa-402b-addf-df9423c0fabe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Evaluation'])[1]/following::div[17]</value>
+      <webElementGuid>ff43447b-6fe3-44d1-8faa-73371835ea5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>a00f5b12-9b56-4ad8-992f-b1c3eee5a71f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ConsultantSugnick Sen' or . = 'ConsultantSugnick Sen')]</value>
+      <webElementGuid>d402dce9-0e75-4e98-9bab-57eb2be6e323</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

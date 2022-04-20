@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'sugnick.sen@neudesic.com'</initValue>
+      <initValue>'alisha.mahapatro@neudesic.com'</initValue>
       <name>G_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'EmnPQEkQiSYNlUEd8rL3FxEovKaD6FOl'</initValue>
+      <initValue>'03BuHsfHZy2YjzhGDSji30HRmLiTW7jW'</initValue>
       <name>G_EncryptedPassword</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

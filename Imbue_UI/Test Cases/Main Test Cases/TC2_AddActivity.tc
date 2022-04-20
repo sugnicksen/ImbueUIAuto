@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2_AddActivity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdd97eff-4423-437f-8cb6-68b920abc827</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c8b6fca-fe85-4fb7-8094-e67c80663550</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TestActivity1'</defaultValue>
+      <description></description>
+      <id>0c8b6fca-fe85-4fb7-8094-e67c80663550</id>
+      <masked>false</masked>
+      <name>activityName</name>
+   </variable>
+</TestCaseEntity>
