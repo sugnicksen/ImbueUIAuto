@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Milestone_Save</name>
+   <tag></tag>
+   <elementGuidId>ec62e4af-a872-4410-8fe2-8434afd779c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.sc-fzplWN.hRBsWH.MuiButton-containedPrimary > span.MuiButton-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div[3]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f67c1caf-ebc0-444e-a5d0-64a2ded744b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButton-label</value>
+      <webElementGuid>c296466f-c723-4f1f-b5d8-a5a9cebaff50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>99ba6811-ff50-4bc1-8bf8-bff59366bd96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/div[@class=&quot;milestone-description&quot;]/div[@class=&quot;body&quot;]/div[@class=&quot;sc-fzoYkl hfPoTr&quot;]/div[@class=&quot;sc-fzpkJw hctKJM&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained sc-fzplWN hRBsWH MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
+      <webElementGuid>f0f58fa2-11dd-49ec-a6c4-dedd2e31ea3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div/div/div[3]/button[2]/span</value>
+      <webElementGuid>6dd07f5c-3797-45d8-bed7-ace0b3e356e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>bc03b643-0d1b-41d2-b1a0-0c961670456e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criteria of Acceptance'])[2]/following::span[3]</value>
+      <webElementGuid>22b6d4e0-4ed8-4079-a74d-c592bf782747</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::span[2]</value>
+      <webElementGuid>2e4e51aa-05c4-42cb-9f9c-d13e13bf6fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[3]/preceding::span[4]</value>
+      <webElementGuid>0bc17938-b3bc-4b67-a605-a0dbd6d38276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>32fc9050-f9b0-4586-8391-3d6811f823f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>07f4fa87-8e31-4c17-92b5-dbb4f1889b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>ba5fd73f-2877-406d-a397-abd3f607f1b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

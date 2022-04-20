@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Milestone1Acceptance</name>
+   <tag></tag>
+   <elementGuidId>e85fdc81-4fcf-464c-ba38-7503d5bfe302</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.milestone-description > div.body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>60ff404f-40ab-4245-8a05-72ef4ebedb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>05e90e95-ae63-4f2b-b47a-645f933484fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Milestone1Acceptance</value>
+      <webElementGuid>e14d7891-6b0b-45bf-a63c-5621e5d3ded5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/div[@class=&quot;milestone-description&quot;]/div[@class=&quot;body&quot;]</value>
+      <webElementGuid>c7f9b6a6-aab9-48e6-ba35-84206865e0fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>998a1e8c-511c-4ce5-8000-678e040badb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Milestone'])[1]/following::div[5]</value>
+      <webElementGuid>3597473e-20e8-4f30-aa52-d329d54b6f6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Milestone1'])[1]/following::div[7]</value>
+      <webElementGuid>83ddfb1c-ce84-499f-96dd-07a0f5fdd5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TaskId'])[1]/preceding::div[1]</value>
+      <webElementGuid>ede74a47-a289-4df5-b7f1-f8a2c058a3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::div[1]</value>
+      <webElementGuid>3296701c-b75e-48f7-aeed-cfd743d70077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Milestone1Acceptance']/parent::*</value>
+      <webElementGuid>4b9f336c-cadf-4a51-8c69-c2555cbc6f95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>1c84f2a4-7ce9-4b1c-849f-a5e7c56c98ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Milestone1Acceptance' or . = 'Milestone1Acceptance')]</value>
+      <webElementGuid>9ffbaa9d-4613-4b30-86d8-5fa7077c1c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

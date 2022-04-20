@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Discussion_MuiSvgIcon-root</name>
+   <tag></tag>
+   <elementGuidId>02500727-3db6-4515-8a93-235cea3e38e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiIconButton-root.expand-icon > span.MuiIconButton-label > svg.MuiSvgIcon-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussion'])[1]/following::*[name()='svg'][3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5addcea6-85ff-4ada-9ea8-393b85268b59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root</value>
+      <webElementGuid>1177726b-1b5f-4300-bdd4-ad15b71a3a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0927bf25-414d-41ae-850d-35197432e1d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>813c06d4-6af0-483d-83c4-47ec19536e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>96fff3d0-203b-47d8-a4aa-6ad6a2d1a23e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;sc-fznNTe fnbSrb&quot;]/div[@class=&quot;MuiGrid-root h-100 MuiGrid-container MuiGrid-spacing-xs-2&quot;]/div[@class=&quot;MuiGrid-root dis-flex h-100 MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzobTh ktGuED MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzonjX skboX&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;right&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root expand-icon&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>7eaa13db-fce6-4ed7-a961-71ac4f1a53a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussion'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>69d6661d-194c-40e1-8fb8-c248c39a9883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Evaluation'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>c9db5691-84e7-4492-bd79-cfdc57793fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Activity is created for this Evaluation'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>0d60b9ea-2934-444d-b556-1c680f5e428b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ee4e6c3f-213f-40a3-a54d-9972dda9d10a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

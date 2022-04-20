@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Task1</name>
+   <tag></tag>
+   <elementGuidId>f174a52f-7e27-4266-a9aa-232fb0b50cfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c6b7dfd7-92ac-48b7-81b4-e1862917e99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTableCell-root MuiTableCell-body</value>
+      <webElementGuid>d7df7d15-dc1b-4b40-90ad-f831b765baec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Task1</value>
+      <webElementGuid>971e402a-75f9-4746-9672-31dc41d9fd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]</value>
+      <webElementGuid>fbbd9f69-0599-43f5-8058-0c8ca37f21c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[2]</value>
+      <webElementGuid>e1bae94b-ef67-46d9-90f1-160ab8d33bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::td[2]</value>
+      <webElementGuid>3c8a77d3-0a36-4b1e-9fb2-035dda352013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remaining'])[1]/following::td[2]</value>
+      <webElementGuid>dccb2cce-875e-4b63-98b2-6a50b69c2e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[1]</value>
+      <webElementGuid>bdf20d41-ece7-4cd5-abec-e01caa0eec4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::td[7]</value>
+      <webElementGuid>55935f7b-4d15-4360-83d0-a2ab78c9a00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Task1']/parent::*</value>
+      <webElementGuid>6ac5cfe9-38b8-4e9b-8337-b0e8734650a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>72468887-4a35-4091-955c-51a2bd5ce90f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Task1' or . = 'Task1')]</value>
+      <webElementGuid>3cb55415-eaf7-4027-a22c-c65753608eee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

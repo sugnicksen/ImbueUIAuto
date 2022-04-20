@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg_Test Activity1_MuiSvgIcon-root MuiSvgIcon-colorError MuiSvgIcon-fontSizeSmall</name>
+   <name>milestone_delete_button</name>
    <tag></tag>
-   <elementGuidId>8924a3f8-19c0-4801-89e9-565343914b07</elementGuidId>
+   <elementGuidId>ae9837a4-6679-413a-87cc-01b5fc00b6a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussion'])[1]/following::*[name()='svg'][3]</value>
+         <value>//div[@class = 'milestone-button']/div/div/div/button/span/div/button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>1eb4ccbd-4271-4b4e-8e1b-8dd8b881e84e</webElementGuid>
+      <webElementGuid>9bce59cb-f23b-4bfc-873a-6757b1775264</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiSvgIcon-root MuiSvgIcon-colorError MuiSvgIcon-fontSizeSmall</value>
-      <webElementGuid>37974f47-3853-4e81-8663-6955a86e14fb</webElementGuid>
+      <webElementGuid>e8cdd341-e59a-454b-9f6c-37e11c16dd4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>da3b8431-4285-491a-9911-eb5245a273e5</webElementGuid>
+      <webElementGuid>ae92432b-99ee-479e-be6a-8ebdf30125ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>88ac10ca-3cf8-49eb-866c-7dabfd9cbd89</webElementGuid>
+      <webElementGuid>d82d8c47-cb67-430a-9222-8509d20f01e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>05c9cd1e-72dd-45e5-bb60-dceb37c09bac</webElementGuid>
+      <webElementGuid>619f4642-8507-4c4b-b59e-eb6773fe482d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;activity-details&quot;]/div[@class=&quot;header-text&quot;]/div[@class=&quot;delete&quot;]/button[@class=&quot;MuiButtonBase-root MuiIconButton-root&quot;]/span[@class=&quot;MuiIconButton-label&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-colorError MuiSvgIcon-fontSizeSmall&quot;]</value>
-      <webElementGuid>b52a1e18-4c8f-4206-b26e-315c2377cfbc</webElementGuid>
+      <webElementGuid>8d88df18-1203-4905-81ac-6a97d0463239</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussion'])[1]/following::*[name()='svg'][3]</value>
-      <webElementGuid>46ecca50-0d9f-48c5-8d8a-f6327feddeda</webElementGuid>
+      <webElementGuid>56cf08e4-09b9-4c1c-bae0-4bea539e07d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>bd2744fa-a884-41d5-9add-40f201c6da6d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8a34c5fe-3362-4101-aa4f-ae6c339ca47b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Milestone'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>018d7923-c7bd-4094-ae00-c708d6b8a0b5</webElementGuid>
+      <webElementGuid>4c35faea-8894-46e4-9222-72af3c302547</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
