@@ -49,9 +49,9 @@ WebUI.click(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/se
 
 WebUI.click(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/li_FastAPI.docx'))
 
-WebUI.setText(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/input_Start Date_date-picker-inline'), '17/04/2025')
+WebUI.setText(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/input_Start Date_date-picker-inline'), '17/04/2022')
 
-WebUI.setText(findTestObject('Imbue_AddEvaluation/Page_CR App/endDatePicker'), '22/04/2025')
+WebUI.setText(findTestObject('Imbue_AddEvaluation/Page_CR App/endDatePicker'), '22/04/2022')
 
 WebUI.setText(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/textarea_Note_note'), 'Test Evaluation for Katalon')
 
@@ -59,9 +59,9 @@ WebUI.click(findTestObject('Object Repository/Imbue_AddEvaluation/Page_CR App/sp
 
 WebUI.delay(10)
 
-String evaluationHeaderTitle = WebUI.getText(findTestObject('Imbue_AddEvaluation/Page_CR App/evaluation_HeaderText'))
+String evaluationError = WebUI.getText(findTestObject('Imbue_AddEvaluation/Page_CR App/evaluation_StartDateError'))
 
-if (evaluationHeaderTitle == evaluationName) {
+if (evaluationError == 'Start Date should not be past date') {
     assert true
 }
 

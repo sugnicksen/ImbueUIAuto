@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case To delete Evaluation</description>
+   <name>TC4_DeleteEvaluation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afea4d43-da52-4109-ae97-60b1a14aeeed</testCaseGuid>
+</TestCaseEntity>
