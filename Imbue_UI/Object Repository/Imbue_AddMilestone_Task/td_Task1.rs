@@ -6,12 +6,12 @@
    <elementGuidId>f174a52f-7e27-4266-a9aa-232fb0b50cfb</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>c6b7dfd7-92ac-48b7-81b4-e1862917e99d</webElementGuid>
+      <webElementGuid>745f6aee-8bb5-40eb-8543-d227a89ce666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiTableCell-root MuiTableCell-body</value>
-      <webElementGuid>d7df7d15-dc1b-4b40-90ad-f831b765baec</webElementGuid>
+      <webElementGuid>dce34281-9ce3-4c63-8b40-7184c310dd23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Task1</value>
-      <webElementGuid>971e402a-75f9-4746-9672-31dc41d9fd08</webElementGuid>
+      <webElementGuid>5b59b2d5-f3b4-48ac-8ffa-090213bfc845</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]</value>
-      <webElementGuid>fbbd9f69-0599-43f5-8058-0c8ca37f21c8</webElementGuid>
+      <webElementGuid>b181cee0-f34a-4f82-8f6b-a6304fe73e7e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/div[2]/div/div/table/tbody/tr/td[2]</value>
-      <webElementGuid>e1bae94b-ef67-46d9-90f1-160ab8d33bcd</webElementGuid>
+      <webElementGuid>3d6aa31a-7061-4607-9d34-08e6cd88c60a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::td[2]</value>
-      <webElementGuid>3c8a77d3-0a36-4b1e-9fb2-035dda352013</webElementGuid>
+      <webElementGuid>12cb8316-76b4-4a27-a982-411e95265385</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remaining'])[1]/following::td[2]</value>
-      <webElementGuid>dccb2cce-875e-4b63-98b2-6a50b69c2e7f</webElementGuid>
+      <webElementGuid>e720f14a-5d5a-46cc-8be7-0b864b9247d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[1]</value>
-      <webElementGuid>bdf20d41-ece7-4cd5-abec-e01caa0eec4d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[1]/preceding::td[1]</value>
+      <webElementGuid>4c26d661-4ba0-478d-af73-03eacd538e70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::td[7]</value>
-      <webElementGuid>55935f7b-4d15-4360-83d0-a2ab78c9a00e</webElementGuid>
+      <webElementGuid>24b3e591-43ca-4906-8edc-0712e4740b4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Task1']/parent::*</value>
-      <webElementGuid>6ac5cfe9-38b8-4e9b-8337-b0e8734650a8</webElementGuid>
+      <webElementGuid>dc640eb6-548c-4678-9cdd-603d04b17d20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]</value>
-      <webElementGuid>72468887-4a35-4091-955c-51a2bd5ce90f</webElementGuid>
+      <webElementGuid>13ac8810-1985-43b6-b977-9fa2065a3aac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = 'Task1' or . = 'Task1')]</value>
-      <webElementGuid>3cb55415-eaf7-4027-a22c-c65753608eee</webElementGuid>
+      <webElementGuid>2ce4d41e-e7ca-4958-b3d5-163d0c272338</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

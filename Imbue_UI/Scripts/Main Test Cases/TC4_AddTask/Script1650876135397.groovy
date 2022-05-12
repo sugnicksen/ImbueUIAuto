@@ -17,24 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Imbue_AddActivity/Page_CR App/SelectEvaluation_RightArrowButton'))
+//WebUI.callTestCase(findTestCase('Main Test Cases/TC3_AddMilestone'), [('activityName') : 'Activity1', ('milestoneName') : 'Milestone1'
+//        , ('taskName') : 'Task1', ('milestoneDescription') : 'milestone1Acceptance'], FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Imbue_AddMilestone_Task/AddTask_Plus_Button'))
 
-WebUI.click(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/MaximizeButton_EvaluationScreen'))
+WebUI.setText(findTestObject('Object Repository/Imbue_AddMilestone_Task/input_Completed_title'), 'Task1')
 
-WebUI.click(findTestObject('Imbue_AddActivity/Page_CR App/span_Activity'))
+WebUI.setText(findTestObject('Object Repository/Imbue_AddMilestone_Task/input__originalHours'), '2')
 
-WebUI.click(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/span_Add Activity'))
+WebUI.setText(findTestObject('Object Repository/Imbue_AddMilestone_Task/input__remainingHours'), '2')
 
-WebUI.setText(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/input_Title_title'), activityName)
+WebUI.click(findTestObject('Object Repository/Imbue_AddMilestone_Task/svg__MuiSvgIcon-root'))
 
-WebUI.setText(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/textarea_Objective_description'), 'Test')
-
-WebUI.click(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/span_Save'))
-
-
-WebUI.click(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/MinimizeButton_EvaluationScreen'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/div_Test Activity1'), activityName)
-
-WebUI.click(findTestObject('Object Repository/Imbue_AddActivity/Page_CR App/MaximizeButton_EvaluationScreen'))
+WebUI.verifyElementText(findTestObject('Object Repository/Imbue_AddMilestone_Task/td_Task1'), 'Task1')
 

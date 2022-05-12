@@ -6,12 +6,12 @@
    <elementGuidId>a729cdfa-bb3f-4938-a4f5-0881e220dfdc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.sc-fzplWN.hRBsWH.MuiButton-containedPrimary > span.MuiButton-label</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.sc-fzplWN.hRBsWH.MuiButton-containedPrimary > span.MuiButton-label</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>97b3f1bf-a51d-48ef-8f9a-8d5fbc7ef2f4</webElementGuid>
+      <webElementGuid>ebffaed4-eca1-4296-8040-3c02b51fb2c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButton-label</value>
-      <webElementGuid>5d9260e4-6e40-4796-8814-6abb28649def</webElementGuid>
+      <webElementGuid>d9f2b686-9ae7-4a78-83e0-3bc32a64824e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Activity</value>
-      <webElementGuid>beec63b6-c3b6-4527-a159-f2fec3ea2783</webElementGuid>
+      <webElementGuid>d04fc2b1-7a94-4b6b-8c9a-af7e2e8e2766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoaKM hNuJKS&quot;]/div[@class=&quot;sc-fzqAui eoGDzK&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained sc-fzplWN hRBsWH MuiButton-containedPrimary&quot;]/span[@class=&quot;MuiButton-label&quot;]</value>
-      <webElementGuid>1ddc64cb-38a7-40e9-8895-3dd37fd65e3c</webElementGuid>
+      <webElementGuid>14d1e830-1384-4eae-8822-76dad97e64d8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div[2]/button/span</value>
-      <webElementGuid>095db790-6ef1-4106-a2d3-e3c2aea60f50</webElementGuid>
+      <webElementGuid>6c1d57a9-e55d-4975-a2bc-8cc34503841d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Activity created for this Evaluation. Create new one?'])[1]/following::span[1]</value>
-      <webElementGuid>eb6fc359-3a0c-4108-8b29-46094f2d3fa8</webElementGuid>
+      <webElementGuid>a22db06b-a3b8-4bc4-9d65-d0a70d214db4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Discussion'])[1]/following::span[4]</value>
-      <webElementGuid>90e18664-7b69-42c1-ad7a-3a194dde03e3</webElementGuid>
+      <webElementGuid>b63f77e1-caaf-4b3e-9e94-62a3147e5877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::span[4]</value>
-      <webElementGuid>4cfc37ec-e97b-4749-a3d5-b09a3f251a57</webElementGuid>
+      <webElementGuid>e45b134d-16fc-44ce-9b04-aac75361b17e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::span[6]</value>
-      <webElementGuid>824e2455-a9fc-4311-99ac-69dc76b9abd8</webElementGuid>
+      <webElementGuid>d97d110b-2299-4c6c-86b0-cc444ab2bfc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Activity']/parent::*</value>
-      <webElementGuid>a559220b-1ffa-4f61-9ed2-001d5b481f52</webElementGuid>
+      <webElementGuid>ff676c1c-8bd7-4f15-b949-cb3deedee9ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/button/span</value>
-      <webElementGuid>4a5fa671-c37a-4d95-a567-2c0d3dea722a</webElementGuid>
+      <webElementGuid>c8e5d8f1-1d49-46d5-b02e-dc81dddbccd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Add Activity' or . = 'Add Activity')]</value>
-      <webElementGuid>7746fd4d-7017-4efd-9823-7c9790dd2bf2</webElementGuid>
+      <webElementGuid>e8cfdbe3-6bed-4a6e-9dc7-a3341531f34b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+//WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.G_SiteURL)
+//WebUI.navigateToUrl(GlobalVariable.G_SiteURL)
 
 WebUI.setText(findTestObject('Object Repository/Imbue_Login/Page_Sign in to your account/input_Sign in_loginfmt'), GlobalVariable.G_Username)
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg__MuiSvgIcon-root</name>
+   <name>AddTask_Plus_Button</name>
    <tag></tag>
-   <elementGuidId>b9c1bc75-8ce9-4b08-afee-fed7d778c05b</elementGuidId>
+   <elementGuidId>24e74e46-8c4e-4137-82ae-3733b97e9619</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::*[name()='svg'][1]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>td.MuiTableCell-root.MuiTableCell-body > svg.MuiSvgIcon-root</value>
+         <value>th.MuiTableCell-root.MuiTableCell-head > svg.MuiSvgIcon-root</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>29ef4672-c642-43c9-89f6-34daed019062</webElementGuid>
+      <webElementGuid>ba4a571c-4731-47b9-8cef-588f64d4e292</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiSvgIcon-root</value>
-      <webElementGuid>ca16c10e-37d5-48d3-ae97-3312aa7d8838</webElementGuid>
+      <webElementGuid>a65dc4fc-99e3-455b-ad92-72aba9deee9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>2a809a81-4061-4387-b03b-56044a3458ec</webElementGuid>
+      <webElementGuid>3a985a0d-0825-4a86-bf4d-cb127951dca1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>845c9b59-07da-421d-b58c-0a967bdfbd7a</webElementGuid>
+      <webElementGuid>066d37d5-150a-44bd-a7d1-4b2e443358bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,46 +54,46 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>61eb8327-c128-410a-b6ca-e75f9e7338a1</webElementGuid>
+      <webElementGuid>6d7e5556-312c-4f6b-b24f-f149f13a5cb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/table[@class=&quot;MuiTable-root&quot;]/tbody[@class=&quot;MuiTableBody-root&quot;]/tr[@class=&quot;MuiTableRow-root&quot;]/td[@class=&quot;MuiTableCell-root MuiTableCell-body&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
-      <webElementGuid>c30ad22e-08a0-4dcb-bc12-49128c56889e</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-fznxKY kfRyXm body&quot;]/div[@class=&quot;content-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;MuiContainer-root h-100&quot;]/div[@class=&quot;sc-pRFjI iisorR&quot;]/div[@class=&quot;sc-fznBtT ccaska&quot;]/div[@class=&quot;MuiPaper-root MuiCard-root sc-fzowVh fYitde MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;sc-fzomME hhnKZs&quot;]/div[@class=&quot;sc-fzoYHE ejtsbi&quot;]/div[@class=&quot;milestones&quot;]/div[2]/div[1]/div[@class=&quot;sc-fzoKki gxJQNM&quot;]/table[@class=&quot;MuiTable-root&quot;]/thead[@class=&quot;MuiTableHead-root&quot;]/tr[@class=&quot;MuiTableRow-root MuiTableRow-head&quot;]/th[@class=&quot;MuiTableCell-root MuiTableCell-head&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>c60372a4-b3f9-4e29-8c82-d5124af4dd98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/following::*[name()='svg'][1]</value>
-      <webElementGuid>596cf02a-edb3-4d2d-950e-144adaa43013</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d0702f6a-a2c1-4bdf-92ed-893ce6d242b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::*[name()='svg'][1]</value>
-      <webElementGuid>cc6345d5-b07c-4a3a-acec-e1a4e26fedf6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remaining'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>682441b5-3809-4b14-ad37-1c3c338a79fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>c798a2a7-7d9e-401b-a41d-794ca8b361d5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Training'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>2fdf57ec-60d3-467d-bcc3-2a4b4dc24a1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[2]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>1921a98d-3a48-48b1-814f-5889e9b83eba</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[2]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>934319c4-4f7e-42a7-8186-6169a9771161</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
