@@ -1,0 +1,41 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://crappdev.azureedge.net/myEvaluations#code=0.ARsAw1F_aF0MBUmE-JfGg6W50T1RdXuianVJrUkBiSCJwg0bAJI.AQABAAIAAAD--DLA3VO7QrddgJg7Wevrpc931zTK_ipwWhD4aYlysDtsStX-fyE8rQUNtK1cWcuVx30f4UyHCtsYX8xnTUcgL2bdeGuv6zDS6AfftO5z4yzx3AEb-ZW4RtC3F8JrCqCHiNks6UGMnVjYtDK0d4rtj65mEhTGff2b9mKvaue5KktIfNIc4W9NZjNHjpGo5DCEzEKMQhngJvimalHuGpXGZI974eAEKlvSpzvgX3Kjo2bjRKaPK_qoRjnPG93fcEXBMkB3L22Ia3KHe1ZLznnFUUeBp_dlpIOGMAcCAVsaCZHEfD2aqesMHiU8Ybr3Sw94UX-pFUpWuXkRfzVfDAUULhCQYQKGr8YSTlUDtQkxMKDiob-V21Nn9EfimL4mg-E7JK6CodbM4yeaRuOC6K9VUapvyI7GPUI7L4wZ9MrrSbcwTAUDMmHVei9JJi0l7yZHuha_JiSZQR1raeauQmTvQQ64XmWEJGEN-tJs7stpX_KN8I1XJz_ZIR8oBJo_utsbdyeAgJx18OCRcJk2smGbzFdEI8T9XY2qp1nA0ze8DLW4dgRPmmg2j2j-7wp0gkiW4UhCF1WuNzf2sVBU9t4dKl7QCv_n_wl4e7_hXcZrpg6bDIyDSHvI3Doao1KtYhKP_tSfAg78xk9upNfEFLMTg1ofMC0Tq098femTJ5hpCl6zw02OwwFcXMTwgVn_JzlQgqdZ9wVsUfTeApCa9w7mcOPzE-HpjCuIoft2UHdSpO3HkHC-0UhVmB8M7R5tgLN6Kse2PnPUqCGLlBmTyqmbPVh9FhcUqGCvMit9DN0Esa_LYw2NKWfB_2oZZ16t37b-JkBgg_6zlqc_8jCNwTdpZjOkyqeFhkah5JPz2Cju3Lr-l-x_24kAz7UldI9HJ8a1CcSxAm6PW-IvvS2YYpuXNNsj0Miz4JsL-FAUcO912m4DQCeO7OMsVVLuqLrMjB1_4xcqai7WjRCNVYo7WgD_V_ic9x_dIu10XjDwEav1JCAA&client_info=eyJ1aWQiOiIyNWYyMDcyMy0zOGZjLTRjMmUtYmYzOC0wNWRiOTJhOWEzOWMiLCJ1dGlkIjoiNjg3ZjUxYzMtMGM1ZC00OTA1LTg0ZjgtOTdjNjgzYTViOWQxIn0&state=eyJpZCI6IjM0ODRjNzk5LTRhMmYtNDNhYi04ZDM5LWFkMTJhNWFkZTUzNyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&session_state=75542833-5272-420d-83c3-c293b83e1183')
+
+WebUI.callTestCase(findTestCase('Common Test Cases/LoginToImbueApp'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Object Repository/AddEvaluation_DateValidations/span_Add Evaluation'))
+
+WebUI.setText(findTestObject('Object Repository/AddEvaluation_DateValidations/input_Start Date_date-picker-inline'), '88/88/8888')
+
+WebUI.verifyElementText(findTestObject('Object Repository/AddEvaluation_DateValidations/p_Invalid Date Format'), 'Invalid Date Format')
+
+WebUI.setText(findTestObject('AddEvaluation_DateValidations/input_End Date_date-picker-inline'), '55/55/5555')
+
+WebUI.delay(2)
+
+WebUI.verifyElementText(findTestObject('Object Repository/AddEvaluation_DateValidations/p_Invalid Date Format'), 'Invalid Date Format')
+
+WebUI.delay(2)
+
+WebUI.closeBrowser()
+

@@ -19,6 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 //WebUI.callTestCase(findTestCase('Main Test Cases/TC3_AddMilestone'), [('activityName') : 'Activity1', ('milestoneName') : 'Milestone1'
 //        , ('taskName') : 'Task1', ('milestoneDescription') : 'milestone1Acceptance'], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('Main Test Cases/TC3_AddMilestone'), [('activityName') : 'Activity1', ('milestoneName') : 'Milestone1'
+        , ('taskName') : 'Task1', ('milestoneDescription') : 'milestone1Acceptance'], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.click(findTestObject('Imbue_AddMilestone_Task/AddTask_Plus_Button'))
 
 WebUI.setText(findTestObject('Object Repository/Imbue_AddMilestone_Task/input_Completed_title'), 'Task1')

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Invalid Date Format</name>
+   <tag></tag>
+   <elementGuidId>2839c403-491e-43ee-8215-d06522df61f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#date-picker-inline-helper-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='date-picker-inline-helper-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a2c95d71-719a-4f3a-a073-b24d521e3bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormHelperText-root-820 MuiFormHelperText-contained-822 MuiFormHelperText-filled-823 MuiFormHelperText-marginDense-821</value>
+      <webElementGuid>2729b8f3-a1c6-48b1-ab0d-a9b28f267991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>date-picker-inline-helper-text</value>
+      <webElementGuid>2948b8de-9e5e-4d94-a08d-a74fa5cea6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Date Format</value>
+      <webElementGuid>521d7eae-446b-4df6-a967-1541860290b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;date-picker-inline-helper-text&quot;)</value>
+      <webElementGuid>dd757d84-9a1e-4baa-a249-c108f81d6e8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='date-picker-inline-helper-text']</value>
+      <webElementGuid>47f2c6c9-46d7-4da5-b35d-76377cf0d10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div/div/div[4]/div[3]/div[2]/div/p</value>
+      <webElementGuid>5835cb96-5a2e-47f4-a1b5-e35b932369ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[2]/following::p[1]</value>
+      <webElementGuid>948b7d1c-7f07-47c4-89b6-50c7c175a1d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::p[1]</value>
+      <webElementGuid>ab1239c4-94ca-4954-acdb-fcabe8856d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[1]/preceding::p[1]</value>
+      <webElementGuid>66081454-9cc0-42ff-898d-0759071b3cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Date'])[2]/preceding::p[1]</value>
+      <webElementGuid>a7480035-62aa-4b4a-b3cc-f384346062bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid Date Format']/parent::*</value>
+      <webElementGuid>414ec8c6-042b-4672-a7e4-b447ad9b0130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>14e462f9-576a-49b6-a766-302ebe798742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'date-picker-inline-helper-text' and (text() = 'Invalid Date Format' or . = 'Invalid Date Format')]</value>
+      <webElementGuid>a38a5720-8531-4ddd-8148-0c201e800432</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC6_EvaluationStartDateErrorMessage</name>
+   <name>TC8_AddEvalation_InvalidDateFormatError</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>3c47e0af-64e8-4175-a224-92b291b55d17</testCaseGuid>
+   <testCaseGuid>32a2977c-16c2-44af-b5ed-1b4ded5736af</testCaseGuid>
 </TestCaseEntity>
